@@ -14,7 +14,7 @@
 
 ---
 
-### 2. Fashion MNIST
+### 2. [Fashion MNIST](https://github.com/aarushitandon0/MNIST-Classifier-project/tree/main/2.%20Fashion%20MNIST)
 
 
 ---
