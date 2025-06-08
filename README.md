@@ -14,7 +14,7 @@
 
 ---
 
-### 2. Swash Classifier (Fashion MNIST)
+### 2. Fashion MNIST
 
 
 ---
