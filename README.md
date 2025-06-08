@@ -9,7 +9,7 @@
 
 ## What’s Inside
 > Each project has it's own readme
-### 1. Digit Classifier (Basic)
+### 1. [Digit Classifier (Basic)](https://github.com/aarushitandon0/MNIST-Classifier-project/tree/main/1.%20Handwritten%20Digit%20Classification)
 
 
 ---
